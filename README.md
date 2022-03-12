@@ -1,8 +1,26 @@
-🛠 Im generally working on data analysis and data science algorithms
+🛠 Im generally working on data science, algorithms and also im interested with Machine Learning
 
-🔮 My skills are Python and R Language
+🔮 my skills:
+Python(Pandas, Numpy, Matplotlib, Seaborn)
+R Language(algorithm functions and visualization packages)
 
-🧑🏻‍💻 Im looking gain experience and work full-time jobs
+🧪 i can apply
+Classification, Regression, Clustering and other statistical algorithms
 
-📥 info@kursad.co & kursadev@gmail.com
+🛠 my tools
+VSCode
+Jupyter Notebook
+Google Colab
+R Studio
+MS Excel
+PostgreSQL
+Tableau
+
+📌My analysis skills include
+Exploratory Data Analysis
+Data Visualization
+Data Cleaning
+Data Manipulation
+Analysis with statistical methods(regression etc.)
+
 
