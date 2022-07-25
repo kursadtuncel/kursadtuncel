@@ -1,8 +1,8 @@
-🛠 Im generally working on data science, algorithms and also im interested with Machine Learning
+🛠 Im generally working on Data Analysis & Machine Learning
 
 🔮 my skills:
-Python(Pandas, Numpy, Matplotlib, Seaborn)
-R Language(algorithm functions and visualization packages)
+Python(Pandas, Numpy, Matplotlib, OpenCV, PyTorch, Tensorflow)
+R Language
 
 🧪 i can apply:
 Classification, Regression, Clustering and other statistical algorithms
