@@ -21,7 +21,8 @@ Exploratory Data Analysis
 Data Visualization
 Data Cleaning
 Data Manipulation
-Analysis with statistical methods(regression etc.)
+
+Also, i am a start up owner. 404yz.com
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/koffeinmagnet/) 
 
