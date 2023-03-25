@@ -1,11 +1,16 @@
-🛠 Im generally working on Data Analysis & Web Development
+🛠 Im working on Data Analysis & Web Development
 
-🔮 my skills:
+🔮 analysis skills:
 Python(Pandas, Numpy, Matplotlib, OpenCV, PyTorch, Tensorflow)
 R Language
 
+💻 web development skills:
+HTML, CSS, JavaScript, Bootstrap4, Wordpress etc.
+
 🧪 i can apply:
 Classification, Clustering and other statistical solutions
+
+🖥️ i can make specific websites
 
 🛠 my tools:
 VSCode
