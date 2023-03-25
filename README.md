@@ -1,11 +1,11 @@
-🛠 Im generally working on Data Analysis & Machine Learning
+🛠 Im generally working on Data Analysis & Web Development
 
 🔮 my skills:
 Python(Pandas, Numpy, Matplotlib, OpenCV, PyTorch, Tensorflow)
 R Language
 
 🧪 i can apply:
-Classification, Regression, Clustering and other statistical algorithms
+Classification, Clustering and other statistical solutions
 
 🛠 my tools:
 VSCode
